@@ -3,4 +3,4 @@
 ## UK
 
 - [Durham](durham.md)
-
+- [Edinburgh](edinburgh.md)
