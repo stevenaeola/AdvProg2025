@@ -3,7 +3,7 @@
 ## UK
 
 - [Durham](durham.md)
-- [Swansea]
+- [Swansea](swansea.md)
 - [St Albons]
 - [Glasgow]
 - [London]
